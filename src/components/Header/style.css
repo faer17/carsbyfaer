@@ -1,0 +1,59 @@
+header{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header_section_left{
+    width: 500px;
+}
+
+.text_header{
+color: #FFF;
+font-family: Be Vietnam Pro;
+font-size: 52px;
+font-style: normal;
+font-weight: 700;
+line-height: 64px;
+letter-spacing: 0.312px;
+margin-bottom: 32px;
+}
+
+.text_paragrph{
+    color: #FFF;
+    font-family: Be Vietnam Pro;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    letter-spacing: -0.408px;
+    margin-bottom: 48px;
+}
+
+
+.btn_group_header{
+    display: flex;
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+.text_number_followers{
+    display: flex;
+    gap: 40px;
+}
+
+.text_all{
+    align-items: center;
+    gap: 10px;
+    display: flex;
+}
+
+.car_image{
+width: 745px;
+}
+
+
+
+.header_section_right{
+}

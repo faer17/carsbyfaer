@@ -1,0 +1,37 @@
+.orange{
+    background: #EE8313;
+    padding: 12px 24px; 
+    outline: none;
+    border: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    border: 1px solid #EE8313;
+}
+
+.orange:hover{
+    background: transparent;
+    color: #EE8313;
+    transition: 0.3s;
+    border: 1px solid #EE8313;
+}
+
+
+.orange_secondary{
+    border: 1px solid #EE8313;
+    padding: 12px 24px;
+    background: transparent;
+    color: #EE8313;
+    font-family: Be Vietnam Pro;
+    font-size: 16px;
+    font-weight: 600;
+    font-style: normal;
+    cursor: pointer;
+}
+
+
+.orange_secondary:hover{
+   box-shadow: 1px 1px 10px #EE8313;
+   transition: 0.3s;
+}

@@ -1,0 +1,49 @@
+nav{
+    display: flex;
+    width: 1200px;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+    margin-bottom: 160px;
+}
+
+
+.boxRightNavbar{
+    width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.list{
+    display: flex;
+    gap: 48px;
+}
+
+.list_item{
+    color: #FFF;
+font-family: Be Vietnam Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.16px;
+}
+
+.list_item:active{
+    color: #EE8313;
+}
+
+.btn{
+    margin-left: 60px;
+}
+
+.by_me{
+    font-size: 48px;
+    text-align: center;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+

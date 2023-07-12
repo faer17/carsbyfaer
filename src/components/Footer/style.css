@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&display=swap');
+
+footer{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1200px;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 102px;
+    padding-top: 80px;
+}
+
+.footer_back{
+    background-color: #1F1509;
+}
+
+
+.f_first_part{
+    width: 235px;
+}
+
+
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 17px;
+}
+
+.footer_name{
+    color: #FFF;
+font-family: Be Vietnam Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0.16px;
+display: inline;
+}
+
+
+.footer_paragrph{
+    color: #FFF;
+font-family: Be Vietnam Pro;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+margin-top: 64px;
+}
+
+.footer_list{
+    width: 145px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.footer_list_name{
+color: #FFF;
+font-family: Manrope;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 20px;
+}
+
+.footer_list_item{
+color: #FFF;
+font-family: Be Vietnam Pro;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px;
+}
+
+.f_second_part{
+    display: flex;
+    gap: 73px;
+    /* height: 180px;
+    flex-wrap: wrap;
+    width: 775px; */
+
+}
+
+.last_part{
+    background: #EE8313;
+    width: 100%;
+    padding: 20px 450px;
+    margin-top: 66px;
+    text-align: center;
+}
+
+.footer_list_img{
+    color: white;
+    margin-left: -31px;
+    margin-top: -32px;
+}
+
+.footer_list_img li img{
+    color: white;
+}

@@ -77,10 +77,6 @@ line-height: 20px;
 .f_second_part{
     display: flex;
     gap: 73px;
-    /* height: 180px;
-    flex-wrap: wrap;
-    width: 775px; */
-
 }
 
 .last_part{

@@ -1,6 +1,6 @@
 import Button from "../Buttons/Button"
 import "./style.css"
-import car from '../../assets/image/kisspng-2018-ford-mustang-coupe-2018-ford-mustang-gt-premi-third-generation-ford-mustang-5b1dd219884808.svg'
+import car from '../../assets/image/car.svg'
 
 
 

@@ -15,3 +15,18 @@ body {
     font-family: 'Be Vietnam Pro', sans-serif;
     font-family: 'Manrope', sans-serif;
 }
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.progress-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 5px;
+    background:#EE8313;
+    transform-origin: 0%;
+  }

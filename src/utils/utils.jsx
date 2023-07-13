@@ -1,4 +1,6 @@
 /* eslint-disable no-unused-vars */
+import { car1, car2, car3 ,car4} from "../assets";
+import {car5,car6,car7} from "../assets";
 import TermsConditions from "../components/Terms and Conditions/TermsConditions";
 import { AboutUsPage } from "../pages/AboutUsPage";
 import { BookNowPage } from "../pages/BookNowPage";
@@ -123,3 +125,46 @@ export const footerthree = [
         id: 4
     },
 ]
+
+export const sectionImageBoxes = [
+    {
+        hover_top_name:"Supercars",
+        hover_bottom_name:"Discover",
+        image: car1
+    },
+    {
+        hover_top_name:"Supercars",
+        hover_bottom_name:"Discover",
+        image: car2
+    },
+    {
+        hover_top_name:"Supercars",
+        hover_bottom_name:"Discover",
+        image: car3
+    },
+    {
+        hover_top_name:"Supercars",
+        hover_bottom_name:"Discover",
+        image: car4
+    }
+]
+
+export const otherServices = [
+    {
+        name:"Private Charter",
+        text:"Pinjam Mobil Rent also offers you discreet and speedy, transfers via helicopter or private planes.",
+        image: car7
+    },
+    {
+        name:"Chauffer Driven Car Rentals",
+        text:"Our chauffers are professional drivers who provide a discreet, reliable punctual and professional service.",
+        image: car6
+    },
+    {
+        name:"Wedding Car Rentals",
+        text:"If you want to celebrate your wedding in style and elegance, choose one car from our luxury collection.",
+        image: car5
+    },
+]
+
+

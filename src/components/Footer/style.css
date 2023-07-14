@@ -9,6 +9,8 @@ footer{
     align-items: center;
     margin-top: 102px;
     padding-top: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .footer_back{
@@ -95,4 +97,5 @@ line-height: 20px;
 
 .footer_list_img li img{
     color: white;
+    background-color: white;
 }
